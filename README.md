@@ -38,7 +38,7 @@ OpenCV · PyTorch
   <img src="https://skillicons.dev/icons?i=git,linux&perline=8" alt="Git y Linux" />
 </p>
 
-Git · Linux · KiCad (diseño electrónico y documentación de proyectos)
+Git · Linux · KiCad
 
 ## Contacto
 
