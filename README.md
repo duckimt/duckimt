@@ -7,7 +7,7 @@ Programo PLCs Siemens, construyo aplicaciones web y desarrollo soluciones de vis
 
 - **Software:** `TIA Portal` · `STEP 7` · `PLCSIM` · `Factory I/O`
 - **Controladores:** Siemens S7-1200, S7-1500 y S7-300
-- **Lenguajes de PLC (IEC 61131-3):** LAD, FBD, SCL y SFC (Sequential Function Chart, conocido en Siemens como S7-Graph)
+- **Lenguajes de PLC :** LAD, FBD, SCL y SFC.
 - **Redes industriales:** PROFINET, PROFIBUS, Modbus y EtherNet/IP
 
 ## Lenguajes y desarrollo web
