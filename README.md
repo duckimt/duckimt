@@ -1,13 +1,14 @@
 # Hola, soy Miguel Á.
 
-**Automatización industrial + desarrollo de software + visión artificial**
-Programo PLCs Siemens, construyo aplicaciones web y desarrollo soluciones de visión e IA, uniendo el mundo de planta con el del software.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=009999&width=435&lines=Automatizaci%C3%B3n+industrial;Desarrollo+de+software;Visi%C3%B3n+artificial)
+
+Conecto el control de procesos con aplicaciones web e inteligencia artificial.
 
 ## Automatización industrial
 
 - **Software:** `TIA Portal` · `STEP 7` · `PLCSIM` · `Factory I/O`
 - **Controladores:** Siemens S7-1200, S7-1500 y S7-300
-- **Lenguajes de PLC :** LAD, FBD, SCL y SFC.
+- **Lenguajes de PLC:** LAD, FBD, SCL y SFC
 - **Redes industriales:** PROFINET, PROFIBUS, Modbus y EtherNet/IP
 
 ## Lenguajes y desarrollo web
@@ -34,6 +35,6 @@ OpenCV · PyTorch
 
 Git · Linux · KiCad (diseño electrónico y documentación de proyectos)
 
-
 ## Contacto
+
 - Correo: rdzmtzma@gmail.com
