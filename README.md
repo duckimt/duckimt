@@ -1,41 +1,38 @@
-# Hola, soy  Miguel
+# Hola, soy Miguel Á.
 
-**Automatización industrial + desarrollo de software**
-Programo PLCs Siemens y construyo aplicaciones web, uniendo el mundo de planta con el del software.
+**Automatización industrial + desarrollo de software + visión artificial**
+Programo PLCs Siemens, construyo aplicaciones web y desarrollo soluciones de visión e IA, uniendo el mundo de planta con el del software.
 
 ## Automatización industrial
 
-![Siemens](https://img.shields.io/badge/Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white)
-![TIA Portal](https://img.shields.io/badge/TIA_Portal-009999?style=for-the-badge)
-![STEP 7](https://img.shields.io/badge/STEP_7-009999?style=for-the-badge)
-![PLCSIM](https://img.shields.io/badge/PLCSIM-009999?style=for-the-badge)
-![Factory I/O](https://img.shields.io/badge/Factory_I%2FO-F28C28?style=for-the-badge)
-
+- **Software:** `TIA Portal` · `STEP 7` · `PLCSIM` · `Factory I/O`
 - **Controladores:** Siemens S7-1200, S7-1500 y S7-300
-- **Lenguajes de PLC:** LAD, FBD y SCL
+- **Lenguajes de PLC (IEC 61131-3):** LAD, FBD, SCL y SFC (Sequential Function Chart, conocido en Siemens como S7-Graph)
 - **Redes industriales:** PROFINET, PROFIBUS, Modbus y EtherNet/IP
-- **Simulación:** PLCSIM y Factory I/O
 
-## Desarrollo de software
+## Lenguajes y desarrollo web
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,postgres,react,nodejs&perline=8" alt="Lenguajes y tecnologías web" />
+</p>
 
-## Desarrollo web
+C · C++ · Python · JavaScript · HTML · SQL · React · Node.js · PostgreSQL
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+## Visión artificial e IA
+
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch&perline=8" alt="OpenCV y PyTorch" />
+</p>
+
+OpenCV · PyTorch
 
 ## Herramientas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux&perline=8" alt="Git y Linux" />
+</p>
+
+Git · Linux · KiCad (diseño electrónico y documentación de proyectos)
 
 
 ## Contacto
