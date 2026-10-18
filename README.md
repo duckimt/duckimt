@@ -6,10 +6,15 @@ Conecto el control de procesos con aplicaciones web e inteligencia artificial.
 
 ## Automatización industrial
 
-- **Software:** `TIA Portal` · `STEP 7` · `PLCSIM` · `Factory I/O`
-- **Controladores:** Siemens S7-1200, S7-1500 y S7-300
-- **Lenguajes de PLC:** LAD, FBD, SCL y SFC
-- **Redes industriales:** PROFINET, PROFIBUS, Modbus y EtherNet/IP
+```pascal
+PROGRAM Automatizacion
+VAR
+    Software     : STRING := 'TIA Portal | STEP 7 | PLCSIM | Factory I/O';
+    Controladores: STRING := 'S7-1200 | S7-1500 | S7-300';
+    Lenguajes    : STRING := 'LAD | FBD | SCL | SFC';
+    Redes        : STRING := 'PROFINET | PROFIBUS | Modbus | EtherNet/IP';
+END_VAR
+```
 
 ## Lenguajes y desarrollo web
 
